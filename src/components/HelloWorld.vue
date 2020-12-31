@@ -27,6 +27,35 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <div class="panel panel-blue">This is a single column.</div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="panel panel-purple">This is the first column.</div>
+        </div>
+        <div class="col">
+          <div class="panel panel-purple">This is the second column.</div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="panel panel-pink">This is the first column.</div>
+        </div>
+        <div class="col">
+          <div class="panel panel-pink">This is the second column.</div>
+        </div>
+        <div class="col">
+          <div class="panel panel-pink">This is the third column.</div>
+        </div>
+        <div class="col">
+          <div class="panel panel-pink">This is the fourth column.</div>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
